@@ -1,0 +1,1 @@
+streamlit run tamara_credit_scoring_mvp.py
